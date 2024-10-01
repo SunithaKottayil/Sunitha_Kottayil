@@ -1,13 +1,44 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Sunitha Kottayil
+logo: "/images/logo.png?raw=true"
+description: >
+  Driven by Passion and Dedication: Crafting Minimalistic and Elegant Data Visualizations for Meaningful Insights
   <br><br>
-  Second description 
+  This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/sunitha-kottayil/">View My LinkedIn Profile</a>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0
+
+## Projects
+### Project 1: Sales and webtraffikking  Analysis Dashboard
+**Description**: Developed a sales analysis dashboard using Power BI to visualize sales data and identify trends.
+**Technologies Used**: Power BI, Python
+**Link**: GitHub Repository
+
+### Project 2: Customer Segmentation
+**Description**: Implemented customer segmentation using Python to identify different customer groups based on purchasing behavior.
+**Technologies Used**: Python, Pandas, Scikit-learn
+**Link**: GitHub Repository
+
+## Skills
+-## Skills
+- **Programming Languages**: Python,SQL(Basic)
+- **Data Manipulation**: Pandas, NumPy, 
+- **Data Visualization**: Power BI, Matplotlib, Seaborn, Tableau, Plotly, 
+- **Machine Learning**: Scikit-learn, TensorFlow, XGBoost
+- **Database Management**: SQLite
+- **Web Scraping**: BeautifulSoup,
+- **Project Management**:  Trello, Workflowy
+- **Communication Tools**: Slack, Microsoft Teams, Zoom, Google Meet, Skype
+- **Others**: Microsoft (word, Excel, Powerpoint, Access)
+
+## Certifications
+- **Data Analyst Certification** - Redi school of Digital Integration
+ **Fundamentals of Data analysis** -IBM SkillsBuild
+- **Power BI Certification** -Udemy
+
+## Contact
+Feel free to reach out to me at vgsuniashok@gmail.com
